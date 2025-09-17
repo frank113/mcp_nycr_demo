@@ -23,9 +23,6 @@ def _get_lat_long_helper(place: str) -> dict:
 async def get_lat_long(place: str) -> dict:
 	return _get_lat_long_helper(place)
 
-async def get_nearby_pizza(place: str):
-	location_lat_long: dict = _get_lat_long_helper(place)
-	
 
 
 if __name__ == "__main__":
