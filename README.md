@@ -2,6 +2,8 @@
 
 ## Setup
 
+Step 0: Populate `env.example` and rename to `.env`.
+
 Step 1: Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 Step 2: Set up un environment:
