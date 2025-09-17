@@ -1,5 +1,6 @@
 node_modules/
 scratchpad/*.py
+scratchpad/*.js
 !scratchpad/.gitkeep
 
 ## Backup drawio
