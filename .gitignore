@@ -1,3 +1,6 @@
+## Ignore LOGS file used during dev
+LOGS.md
+
 node_modules/
 scratchpad/*.py
 scratchpad/*.js
